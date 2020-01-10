@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+body,h1,h2,h3,h4,h5 {font-family: "Montserrat", sans-serif}
+.w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
+.w3-third img:hover{opacity: 1}
+.blue{
+    background: #3C3B6E;
+    font-weight: 200;
+    a {
+        background-color: #3C3B6E;
+    }
+}
+.aula{
+    height: 26vh;
+    width: 350;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 0px 3px 3px 3px rgb(0, 0, 0)!important;
+    background: linear-gradient(180deg,#B22234,rgba(178, 34, 51, 0.959));
+    box-shadow: 0px 7px 7px rgba(0, 0, 0,0.07);
+}
+.aula2{
+    height: 26vh;
+    width: 350;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(144deg,#FFFFFF,#ffffff);
+    box-shadow: 0px 7px 7px rgba(0, 0, 0,0.07);
+}
